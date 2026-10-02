@@ -6,8 +6,8 @@ Technical engineering journal and architectural reflections for Shashika Dayarat
 
 This repository hosts personal technical essays, systems architecture investigations, and development retrospectives.
 
-- **Current Status**: Editorial phase. Articles and series are actively being drafted and technically verified. No placeholder or synthetic posts are committed.
-- **Editorial Focus**: Operating systems, low-level architecture, distributed systems, clean software design, and engineering reflections.
+- **Current Status**: Upcoming journal with planned topics. No articles are published yet. Articles will be published directly as they are completed without synthetic or filler content.
+- **Editorial Focus**: Operating systems, low-level architecture, clean software design, and engineering retrospectives.
 
 ## Architecture
 
